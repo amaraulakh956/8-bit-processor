@@ -14,6 +14,11 @@ This project implements a complete 8-bit processor consisting of four main compo
 
 The processor is divided into the following components:
 
+## Schematic
+
+<img width="1896" height="600" alt="image" src="https://github.com/user-attachments/assets/614a7f95-b21b-4f38-8404-9aedf82b361e" />
+
+
 ### ALU Core (ALU1.vhd)
 Performs 9 arithmetic and logical operations on two 8-bit inputs A and B:
 
